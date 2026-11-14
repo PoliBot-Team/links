@@ -54,6 +54,7 @@ window.TALOS_CONFIG = {
       label: { it: "Entra nel team", en: "Join the team" },
       items: [
         {
+          //Form
           enabled: true,
           featured: true,
           icon: "robot",
@@ -66,6 +67,7 @@ window.TALOS_CONFIG = {
           }
         },
         {
+          //Tg, Wapp, Ds ?
           enabled: true,
           featured: false,
           icon: "team",
@@ -83,10 +85,11 @@ window.TALOS_CONFIG = {
       label: { it: "Progetto & Canali", en: "Project & Channels" },
       items: [
         {
+          //GitHub
           enabled: true,
           featured: false,
           icon: "code",
-          url: "https://github.com/PoliBot-Team",
+          url: "https://github.com/PoliBot-Team", // <-- Cambiare con nuovo link quando cambiamo il nome
           badge: { it: "Open Source", en: "Open Source" },
           title: { it: "GitHub Organization", en: "GitHub Organization" },
           subtitle: {
@@ -95,6 +98,7 @@ window.TALOS_CONFIG = {
           }
         },
         {
+          //Insta
           enabled: true,
           featured: false,
           icon: "vision",
@@ -106,6 +110,7 @@ window.TALOS_CONFIG = {
           }
         },
         {
+          //LinkedIn
           enabled: true,
           featured: false,
           icon: "trophy",
@@ -117,6 +122,7 @@ window.TALOS_CONFIG = {
           }
         },
         {
+          //Mail
           enabled: true,
           featured: false,
           icon: "mail",
