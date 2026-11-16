@@ -2,7 +2,7 @@
 
 Pagina stile Linktree per il team **TALOS Robotics** (Politecnico di Torino · RoboCup), costruita secondo le specifiche del Brand Book (`Grafite`, `Bronzo`, `Patina`, `Saira Condensed` + `IBM Plex`).
 
-URL pubblico atteso con GitHub Pages: <a href="https://polibot-team.github.io/links/" target="_blank" rel="noopener noreferrer"></a>
+URL pubblico atteso con GitHub Pages: <a href="https://polibot-team.github.io/links/" target="_blank" rel="noopener noreferrer">https://polibot-team.github.io/links/</a>
 
 ## Struttura dei file
 
